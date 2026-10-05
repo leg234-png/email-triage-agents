@@ -31,6 +31,21 @@ Choix de conception :
 - **Traçabilité** : chaque résultat contient la trace des décisions des agents, utile pour l'analyse d'erreurs.
 - **Fournisseur interchangeable** : OpenAI ou Mistral via `LLM_PROVIDER` (API compatible OpenAI).
 
+## État des tests
+
+✅ **9 tests unitaires passent avec succès** :
+- JSON valide et auto-correction des JSON invalides
+- Gestion des clés manquantes et retry jusqu'à l'abandon
+- Chemin happy path : email approuvé directement par le reviewer
+- Rejet du reviewer → reclassification avec feedback
+- Double rejet → escalade vers humain avec correction
+- Emails à faible confiance → escalade
+- Baseline TF-IDF apprend correctement sur dataset simple
+
+```bash
+pytest -q  # 9 passed
+```
+
 ## Données
 
 `data/generate_dataset.py` génère 400 emails synthétiques en français (graine fixe, reproductible)
