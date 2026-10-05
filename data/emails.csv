@@ -1,0 +1,2590 @@
+id,sender_email,subject,body,intent,priority,sender,template_id
+email_0000,paul@notre-entreprise.fr,Demande de congés,"Bonjour,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Nous avons une démonstration importante demain matin.
+
+Merci,
+Paul Nguyen",rh_interne,haute,interne,rh_interne_2
+email_0001,inès@armor-tech.com,Bug sur l'application,"Bonjour à tous,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Armor Tech",support_technique,moyenne,client,support_technique_4
+email_0002,lucas@datasud.com,Demande de devis,"Bonjour,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest. Rien de pressé, quand vous aurez un moment.
+
+Cordialement,
+Lucas Petit
+Service commercial, DataSud",commercial,basse,fournisseur,commercial_1
+email_0003,thomas@brest-logistique.com,Informations produit,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ?
+
+Bien à vous,
+Thomas Moreau (Brest Logistique)",demande_info,moyenne,client,demande_info_2
+email_0004,claire@kermor-industrie.com,Rendez-vous commercial,"Bonjour,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ?
+
+Claire Martin
+Compte clé, Kermor Industrie",commercial,moyenne,fournisseur,commercial_2
+email_0005,amina@datasud.com,Demande d'avoir,"Bonjour Madame, Monsieur,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ?
+
+Bien à vous,
+Amina Diallo (DataSud)",facturation,moyenne,client,facturation_2
+email_0006,amina@notre-entreprise.fr,Demande de congés,"Hello,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Amina Diallo
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0007,hugo@notre-entreprise.fr,Planning de l'équipe,"Bonjour Madame, Monsieur,
+
+Je souhaiterais poser mes congés du 12 au 23 août, merci de valider. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+À plus,
+Hugo Bernard
+Équipe Data",rh_interne,haute,interne,rh_interne_0
+email_0008,sofia@notre-entreprise.fr,Formation,"Hello,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Par ailleurs, le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Sofia Rossi
+Équipe Data",rh_interne,basse,interne,rh_interne_3
+email_0009,paul@brest-logistique.com,Erreur de montant,"Bonjour à tous,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Par ailleurs, depuis ce matin, je n'arrive plus à me connecter à mon compte, le message 'erreur 500' s'affiche. Notre clôture comptable a lieu cette semaine.
+
+Bien à vous,
+Paul Nguyen (Brest Logistique)",facturation,haute,client,facturation_3
+email_0010,claire@brest-logistique.com,Rendez-vous commercial,"Hello,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ?
+
+Claire Martin
+Compte clé, Brest Logistique",commercial,moyenne,fournisseur,commercial_2
+email_0011,sofia@nova-retail.com,Impossible d'accéder au tableau de bord,"Hello,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Nova Retail",support_technique,moyenne,client,support_technique_1
+email_0012,claire@notre-entreprise.fr,Note de frais,"Bonjour,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Claire Martin
+Équipe Data",rh_interne,basse,interne,rh_interne_2
+email_0013,inès@nova-retail.com,Erreur lors de l'export,"Bonjour à tous,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, je souhaiterais poser mes congés du 12 au 23 août, merci de valider. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Nova Retail",support_technique,haute,client,support_technique_1
+email_0014,inès@kermor-industrie.com,Renouvellement de contrat,"Bonjour à tous,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Rien de pressé, quand vous aurez un moment.
+
+Bien à vous,
+Inès Garcia (Kermor Industrie)",commercial,basse,client,commercial_4
+email_0015,paul@notre-entreprise.fr,Formation,"Bonjour,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Nous avons une démonstration importante demain matin.
+
+Merci,
+Paul Nguyen",rh_interne,haute,interne,rh_interne_4
+email_0016,lucas@notre-entreprise.fr,Problème de connexion,"Bonjour Madame, Monsieur,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, pourriez-vous m'envoyer la facture de septembre au format pdf pour notre comptabilité ? Notre clôture comptable a lieu cette semaine.
+
+À plus,
+Lucas Petit
+Équipe Data",support_technique,haute,interne,support_technique_1
+email_0017,claire@brest-logistique.com,Question sur vos offres,"Bonjour à tous,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Par ailleurs, notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Pas d'urgence, c'est pour information.
+
+Cordialement,
+Claire Martin
+Responsable achats, Brest Logistique",demande_info,basse,client,demande_info_0
+email_0018,lucas@notre-entreprise.fr,Demande de congés,"Bonjour,
+
+Vous trouverez ci-joint ma note de frais pour le déplacement à Lyon. Par ailleurs, pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Notre clôture comptable a lieu cette semaine.
+
+À plus,
+Lucas Petit
+Équipe Data",rh_interne,haute,interne,rh_interne_1
+email_0019,lucas@notre-entreprise.fr,Lenteurs depuis la mise à jour,"Bonjour à tous,
+
+Depuis ce matin, je n'arrive plus à me connecter à mon compte, le message 'erreur 500' s'affiche.
+
+À plus,
+Lucas Petit
+Équipe Data",support_technique,moyenne,interne,support_technique_0
+email_0020,sofia@armor-tech.com,Disponibilité,"Bonjour Madame, Monsieur,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Par ailleurs, le bouton de validation ne réagit plus sur firefox, pouvez-vous regarder ? Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Sofia Rossi (Armor Tech)",demande_info,basse,client,demande_info_0
+email_0021,yann@atlantis-sa.com,Double prélèvement,"Bonjour à tous,
+
+Nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser. Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Yann Le Gall
+Service commercial, Atlantis SA",facturation,basse,fournisseur,facturation_0
+email_0022,lucas@armor-tech.com,Demande de devis,"Bonjour Madame, Monsieur,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Par ailleurs, nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Armor Tech",commercial,moyenne,client,commercial_4
+email_0023,inès@datasud.com,Rendez-vous commercial,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Bien à vous,
+Inès Garcia (DataSud)",commercial,moyenne,client,commercial_0
+email_0024,thomas@notre-entreprise.fr,Note de frais,"Bonjour,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Pas d'urgence, c'est pour information.
+
+Merci,
+Thomas Moreau",rh_interne,basse,interne,rh_interne_2
+email_0025,hugo@kermor-industrie.com,Documentation,"Hello,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Par ailleurs, notre service comptable ne trouve pas le numéro de tva sur la dernière facture. Pas d'urgence, c'est pour information.
+
+Hugo Bernard
+Compte clé, Kermor Industrie",demande_info,basse,fournisseur,demande_info_0
+email_0026,inès@atlantis-sa.com,Erreur de montant,"Bonjour,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ?
+
+Inès Garcia
+Compte clé, Atlantis SA",facturation,moyenne,fournisseur,facturation_2
+email_0027,yann@kermor-industrie.com,Question sur ma facture,"Bonjour à tous,
+
+Nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser. Nous avons une démonstration importante demain matin.
+
+Yann Le Gall
+Compte clé, Kermor Industrie",facturation,haute,fournisseur,facturation_0
+email_0028,sofia@nova-retail.com,Mécontentement,"Bonjour à tous,
+
+Le matériel livré est endommagé, je souhaite déposer une réclamation officielle. Toute notre production est bloquée.
+
+Bien à vous,
+Sofia Rossi (Nova Retail)",reclamation,haute,client,reclamation_3
+email_0029,amina@atlantis-sa.com,Demande de devis,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Bien à vous,
+Amina Diallo (Atlantis SA)",commercial,moyenne,client,commercial_0
+email_0030,claire@datasud.com,Renseignements,"Bonjour Madame, Monsieur,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ?
+
+Cordialement,
+Claire Martin
+Responsable achats, DataSud",demande_info,moyenne,client,demande_info_2
+email_0031,amina@notre-entreprise.fr,Planning de l'équipe,"Bonjour Madame, Monsieur,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Vous pouvez me répondre la semaine prochaine.
+
+Merci,
+Amina Diallo",rh_interne,basse,interne,rh_interne_4
+email_0032,lucas@helio-conseil.com,Question sur vos offres,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Helio Conseil",demande_info,basse,client,demande_info_2
+email_0033,lucas@atlantis-sa.com,Disponibilité,"Bonjour à tous,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Par ailleurs, notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Rien de pressé, quand vous aurez un moment.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Atlantis SA",demande_info,basse,client,demande_info_1
+email_0034,claire@brest-logistique.com,Mécontentement,"Bonjour Madame, Monsieur,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Claire Martin (Brest Logistique)",reclamation,haute,client,reclamation_2
+email_0035,nadia@brest-logistique.com,Demande de devis,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires. Pas d'urgence, c'est pour information.
+
+Nadia Benali
+Compte clé, Brest Logistique",commercial,basse,fournisseur,commercial_0
+email_0036,yann@armor-tech.com,Livraison non conforme,"Hello,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Toute notre production est bloquée.
+
+Cordialement,
+Yann Le Gall
+Responsable achats, Armor Tech",reclamation,haute,client,reclamation_0
+email_0037,yann@armor-tech.com,Demande de devis,"Bonjour Madame, Monsieur,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ?
+
+Yann Le Gall
+Compte clé, Armor Tech",commercial,moyenne,fournisseur,commercial_2
+email_0038,claire@helio-conseil.com,Demande d'avoir,"Bonjour Madame, Monsieur,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Vous pouvez me répondre la semaine prochaine.
+
+Claire Martin
+Compte clé, Helio Conseil",facturation,basse,fournisseur,facturation_1
+email_0039,inès@ouest-distribution.com,Documentation,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Rien de pressé, quand vous aurez un moment.
+
+Cordialement,
+Inès Garcia
+Service commercial, Ouest Distribution",demande_info,basse,fournisseur,demande_info_2
+email_0040,claire@kermor-industrie.com,Mécontentement,"Bonjour,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Claire Martin (Kermor Industrie)",reclamation,haute,client,reclamation_1
+email_0041,lucas@nova-retail.com,Documentation,"Bonjour,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Pas d'urgence, c'est pour information.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Nova Retail",demande_info,basse,client,demande_info_1
+email_0042,hugo@ouest-distribution.com,Question sur vos offres,"Bonjour à tous,
+
+Est-il possible d'héberger les données en France ?
+
+Cordialement,
+Hugo Bernard
+Responsable achats, Ouest Distribution",demande_info,moyenne,client,demande_info_4
+email_0043,inès@notre-entreprise.fr,Formation,"Bonjour à tous,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Pas d'urgence, c'est pour information.
+
+Merci,
+Inès Garcia",rh_interne,basse,interne,rh_interne_4
+email_0044,lucas@helio-conseil.com,Question sur vos offres,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Vous pouvez me répondre la semaine prochaine.
+
+Bien à vous,
+Lucas Petit (Helio Conseil)",demande_info,basse,client,demande_info_2
+email_0045,amina@notre-entreprise.fr,Note de frais,"Bonjour à tous,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Amina Diallo",rh_interne,basse,interne,rh_interne_2
+email_0046,nadia@notre-entreprise.fr,Note de frais,"Bonjour à tous,
+
+Je souhaiterais poser mes congés du 12 au 23 août, merci de valider. Pas d'urgence, c'est pour information.
+
+Merci,
+Nadia Benali",rh_interne,basse,interne,rh_interne_0
+email_0047,nadia@kermor-industrie.com,Renseignements,"Bonjour Madame, Monsieur,
+
+Est-il possible d'héberger les données en France ? Le client final attend une réponse ce soir.
+
+Nadia Benali
+Compte clé, Kermor Industrie",demande_info,haute,fournisseur,demande_info_4
+email_0048,thomas@nova-retail.com,Livraison non conforme,"Bonjour à tous,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Toute notre production est bloquée.
+
+Cordialement,
+Thomas Moreau
+Responsable achats, Nova Retail",reclamation,haute,client,reclamation_0
+email_0049,thomas@datasud.com,Demande de devis,"Bonjour à tous,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Par ailleurs, je souhaiterais savoir si votre solution est compatible avec notre erp. Toute notre production est bloquée.
+
+Bien à vous,
+Thomas Moreau (DataSud)",commercial,haute,client,commercial_3
+email_0050,lucas@brest-logistique.com,Service inacceptable,"Bonjour,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Notre clôture comptable a lieu cette semaine.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Brest Logistique",reclamation,haute,client,reclamation_0
+email_0051,paul@kermor-industrie.com,Question sur ma facture,"Hello,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture. Par ailleurs, le matériel livré est endommagé, je souhaite déposer une réclamation officielle.
+
+Bien à vous,
+Paul Nguyen (Kermor Industrie)",facturation,moyenne,client,facturation_4
+email_0052,sofia@brest-logistique.com,Plainte,"Hello,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Toute notre production est bloquée.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Brest Logistique",reclamation,haute,client,reclamation_4
+email_0053,sofia@brest-logistique.com,Extension de licence,"Hello,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest. Par ailleurs, nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser.
+
+Cordialement,
+Sofia Rossi
+Service commercial, Brest Logistique",commercial,moyenne,fournisseur,commercial_1
+email_0054,thomas@brest-logistique.com,Renouvellement de contrat,"Hello,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires. Pas d'urgence, c'est pour information.
+
+Thomas Moreau
+Compte clé, Brest Logistique",commercial,basse,fournisseur,commercial_0
+email_0055,thomas@notre-entreprise.fr,Note de frais,"Hello,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Par ailleurs, notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Thomas Moreau
+Équipe Data",rh_interne,basse,interne,rh_interne_3
+email_0056,yann@atlantis-sa.com,Mécontentement,"Hello,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Le client final attend une réponse ce soir.
+
+Bien à vous,
+Yann Le Gall (Atlantis SA)",reclamation,haute,client,reclamation_2
+email_0057,sofia@atlantis-sa.com,Double prélèvement,"Bonjour,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ? Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Sofia Rossi
+Service commercial, Atlantis SA",facturation,basse,fournisseur,facturation_2
+email_0058,thomas@ouest-distribution.com,Demande d'avoir,"Bonjour,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Cordialement,
+Thomas Moreau
+Service commercial, Ouest Distribution",facturation,moyenne,fournisseur,facturation_4
+email_0059,nadia@datasud.com,Livraison non conforme,"Bonjour à tous,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Nadia Benali (DataSud)",reclamation,haute,client,reclamation_1
+email_0060,lucas@kermor-industrie.com,Service inacceptable,"Hello,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Par ailleurs, pourriez-vous m'envoyer la facture de septembre au format pdf pour notre comptabilité ? Toute notre production est bloquée.
+
+Bien à vous,
+Lucas Petit (Kermor Industrie)",reclamation,haute,client,reclamation_1
+email_0061,claire@notre-entreprise.fr,Demande de congés,"Bonjour,
+
+Vous trouverez ci-joint ma note de frais pour le déplacement à Lyon. Pas d'urgence, c'est pour information.
+
+À plus,
+Claire Martin
+Équipe Data",rh_interne,basse,interne,rh_interne_1
+email_0062,hugo@notre-entreprise.fr,Erreur lors de l'export,"Bonjour à tous,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données.
+
+À plus,
+Hugo Bernard
+Équipe Data",support_technique,moyenne,interne,support_technique_1
+email_0063,hugo@brest-logistique.com,Informations produit,"Bonjour à tous,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Hugo Bernard (Brest Logistique)",demande_info,basse,client,demande_info_1
+email_0064,paul@notre-entreprise.fr,Problème de connexion,"Bonjour à tous,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Notre clôture comptable a lieu cette semaine.
+
+À plus,
+Paul Nguyen
+Équipe Data",support_technique,haute,interne,support_technique_1
+email_0065,paul@brest-logistique.com,Documentation,"Bonjour Madame, Monsieur,
+
+Quels sont vos délais habituels de mise en service pour une PME ?
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Brest Logistique",demande_info,moyenne,client,demande_info_3
+email_0066,sofia@atlantis-sa.com,Réclamation commande,"Hello,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Par ailleurs, l'export csv plante systématiquement dès que je sélectionne plus d'un mois de données. Le client final attend une réponse ce soir.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Atlantis SA",reclamation,haute,client,reclamation_1
+email_0067,paul@notre-entreprise.fr,Formation,"Bonjour,
+
+Je souhaiterais poser mes congés du 12 au 23 août, merci de valider. Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Paul Nguyen
+Équipe Data",rh_interne,basse,interne,rh_interne_0
+email_0068,paul@helio-conseil.com,Proposition de partenariat,"Bonjour,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Notre clôture comptable a lieu cette semaine.
+
+Bien à vous,
+Paul Nguyen (Helio Conseil)",commercial,haute,client,commercial_2
+email_0069,thomas@brest-logistique.com,Informations produit,"Bonjour à tous,
+
+Quels sont vos délais habituels de mise en service pour une PME ? Pas d'urgence, c'est pour information.
+
+Cordialement,
+Thomas Moreau
+Service commercial, Brest Logistique",demande_info,basse,fournisseur,demande_info_3
+email_0070,sofia@notre-entreprise.fr,Entretien annuel,"Bonjour à tous,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Par ailleurs, notre service comptable ne trouve pas le numéro de tva sur la dernière facture. Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Sofia Rossi",rh_interne,basse,interne,rh_interne_2
+email_0071,hugo@ouest-distribution.com,Renouvellement de contrat,"Bonjour à tous,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest. Pas d'urgence, c'est pour information.
+
+Hugo Bernard
+Compte clé, Ouest Distribution",commercial,basse,fournisseur,commercial_1
+email_0072,inès@atlantis-sa.com,Mécontentement,"Bonjour,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Notre clôture comptable a lieu cette semaine.
+
+Bien à vous,
+Inès Garcia (Atlantis SA)",reclamation,haute,client,reclamation_1
+email_0073,inès@ouest-distribution.com,Service inacceptable,"Bonjour,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Inès Garcia (Ouest Distribution)",reclamation,haute,client,reclamation_0
+email_0074,lucas@helio-conseil.com,Erreur de montant,"Hello,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium.
+
+Cordialement,
+Lucas Petit
+Service commercial, Helio Conseil",facturation,moyenne,fournisseur,facturation_3
+email_0075,sofia@atlantis-sa.com,Disponibilité,"Bonjour,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Par ailleurs, vous trouverez ci-joint ma note de frais pour le déplacement à lyon.
+
+Sofia Rossi
+Compte clé, Atlantis SA",demande_info,moyenne,fournisseur,demande_info_0
+email_0076,inès@helio-conseil.com,Demande d'avoir,"Bonjour à tous,
+
+Nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Inès Garcia (Helio Conseil)",facturation,haute,client,facturation_0
+email_0077,hugo@helio-conseil.com,Disponibilité,"Hello,
+
+Est-il possible d'héberger les données en France ? Par ailleurs, notre service comptable ne trouve pas le numéro de tva sur la dernière facture. Rien de pressé, quand vous aurez un moment.
+
+Bien à vous,
+Hugo Bernard (Helio Conseil)",demande_info,basse,client,demande_info_4
+email_0078,paul@ouest-distribution.com,Demande de devis,"Bonjour à tous,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ?
+
+Cordialement,
+Paul Nguyen
+Service commercial, Ouest Distribution",commercial,moyenne,fournisseur,commercial_2
+email_0079,yann@kermor-industrie.com,Renouvellement de contrat,"Bonjour à tous,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Pas d'urgence, c'est pour information.
+
+Cordialement,
+Yann Le Gall
+Service commercial, Kermor Industrie",commercial,basse,fournisseur,commercial_2
+email_0080,nadia@armor-tech.com,Question sur ma facture,"Bonjour à tous,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ?
+
+Cordialement,
+Nadia Benali
+Service commercial, Armor Tech",facturation,moyenne,fournisseur,facturation_2
+email_0081,inès@ouest-distribution.com,Lenteurs depuis la mise à jour,"Bonjour Madame, Monsieur,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Ouest Distribution",support_technique,haute,client,support_technique_4
+email_0082,yann@armor-tech.com,Question sur vos offres,"Hello,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ?
+
+Cordialement,
+Yann Le Gall
+Service commercial, Armor Tech",demande_info,moyenne,fournisseur,demande_info_0
+email_0083,lucas@notre-entreprise.fr,Planning de l'équipe,"Bonjour,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Notre clôture comptable a lieu cette semaine.
+
+À plus,
+Lucas Petit
+Équipe Data",rh_interne,haute,interne,rh_interne_3
+email_0084,yann@notre-entreprise.fr,Formation,"Hello,
+
+Vous trouverez ci-joint ma note de frais pour le déplacement à Lyon. Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Yann Le Gall
+Équipe Data",rh_interne,basse,interne,rh_interne_1
+email_0085,amina@brest-logistique.com,Réclamation commande,"Bonjour Madame, Monsieur,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Toute notre production est bloquée.
+
+Bien à vous,
+Amina Diallo (Brest Logistique)",reclamation,haute,client,reclamation_1
+email_0086,claire@ouest-distribution.com,Question sur vos offres,"Bonjour Madame, Monsieur,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Pas d'urgence, c'est pour information.
+
+Claire Martin
+Compte clé, Ouest Distribution",demande_info,basse,fournisseur,demande_info_1
+email_0087,sofia@ouest-distribution.com,Erreur lors de l'export,"Bonjour Madame, Monsieur,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting.
+
+Bien à vous,
+Sofia Rossi (Ouest Distribution)",support_technique,moyenne,client,support_technique_4
+email_0088,sofia@atlantis-sa.com,Renseignements,"Hello,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Sofia Rossi (Atlantis SA)",demande_info,basse,client,demande_info_1
+email_0089,sofia@notre-entreprise.fr,Problème de connexion,"Bonjour Madame, Monsieur,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting.
+
+À plus,
+Sofia Rossi
+Équipe Data",support_technique,moyenne,interne,support_technique_4
+email_0090,amina@notre-entreprise.fr,Entretien annuel,"Hello,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Vous pouvez me répondre la semaine prochaine.
+
+Merci,
+Amina Diallo",rh_interne,basse,interne,rh_interne_2
+email_0091,amina@kermor-industrie.com,Documentation,"Hello,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Notre clôture comptable a lieu cette semaine.
+
+Cordialement,
+Amina Diallo
+Responsable achats, Kermor Industrie",demande_info,haute,client,demande_info_2
+email_0092,sofia@datasud.com,Proposition de partenariat,"Bonjour à tous,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ?
+
+Cordialement,
+Sofia Rossi
+Service commercial, DataSud",commercial,moyenne,fournisseur,commercial_2
+email_0093,yann@brest-logistique.com,Bug sur l'application,"Bonjour,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ?
+
+Bien à vous,
+Yann Le Gall (Brest Logistique)",support_technique,moyenne,client,support_technique_3
+email_0094,hugo@kermor-industrie.com,Livraison non conforme,"Bonjour,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Hugo Bernard (Kermor Industrie)",reclamation,haute,client,reclamation_2
+email_0095,thomas@helio-conseil.com,Rendez-vous commercial,"Bonjour,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest.
+
+Thomas Moreau
+Compte clé, Helio Conseil",commercial,moyenne,fournisseur,commercial_1
+email_0096,nadia@ouest-distribution.com,Question sur ma facture,"Bonjour à tous,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ? Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Nadia Benali (Ouest Distribution)",facturation,haute,client,facturation_2
+email_0097,sofia@atlantis-sa.com,Extension de licence,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Bien à vous,
+Sofia Rossi (Atlantis SA)",commercial,moyenne,client,commercial_0
+email_0098,yann@atlantis-sa.com,Question sur vos offres,"Hello,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Par ailleurs, nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas.
+
+Bien à vous,
+Yann Le Gall (Atlantis SA)",demande_info,moyenne,client,demande_info_2
+email_0099,paul@atlantis-sa.com,Demande d'avoir,"Hello,
+
+Nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Atlantis SA",facturation,moyenne,client,facturation_0
+email_0100,lucas@datasud.com,Erreur de montant,"Bonjour,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Par ailleurs, vous trouverez ci-joint ma note de frais pour le déplacement à lyon.
+
+Cordialement,
+Lucas Petit
+Responsable achats, DataSud",facturation,moyenne,client,facturation_1
+email_0101,amina@atlantis-sa.com,Réclamation commande,"Bonjour Madame, Monsieur,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Amina Diallo (Atlantis SA)",reclamation,haute,client,reclamation_4
+email_0102,hugo@ouest-distribution.com,Demande de devis,"Hello,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Hugo Bernard
+Compte clé, Ouest Distribution",commercial,haute,fournisseur,commercial_1
+email_0103,inès@helio-conseil.com,Extension de licence,"Bonjour,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ?
+
+Bien à vous,
+Inès Garcia (Helio Conseil)",commercial,moyenne,client,commercial_4
+email_0104,hugo@brest-logistique.com,Impossible d'accéder au tableau de bord,"Bonjour Madame, Monsieur,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ? Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Hugo Bernard (Brest Logistique)",support_technique,basse,client,support_technique_3
+email_0105,nadia@helio-conseil.com,Erreur lors de l'export,"Bonjour à tous,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Nadia Benali (Helio Conseil)",support_technique,basse,client,support_technique_4
+email_0106,nadia@notre-entreprise.fr,Problème de connexion,"Bonjour à tous,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. Toute notre production est bloquée.
+
+À plus,
+Nadia Benali
+Équipe Data",support_technique,haute,interne,support_technique_4
+email_0107,yann@nova-retail.com,Renseignements,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ?
+
+Yann Le Gall
+Compte clé, Nova Retail",demande_info,moyenne,fournisseur,demande_info_2
+email_0108,paul@datasud.com,Problème de connexion,"Bonjour à tous,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ? Par ailleurs, je souhaiterais savoir si votre solution est compatible avec notre erp.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, DataSud",support_technique,moyenne,client,support_technique_3
+email_0109,amina@ouest-distribution.com,Mécontentement,"Bonjour,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Toute notre production est bloquée.
+
+Cordialement,
+Amina Diallo
+Responsable achats, Ouest Distribution",reclamation,haute,client,reclamation_2
+email_0110,paul@helio-conseil.com,Mécontentement,"Bonjour Madame, Monsieur,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Helio Conseil",reclamation,haute,client,reclamation_2
+email_0111,hugo@kermor-industrie.com,Service inacceptable,"Bonjour à tous,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Par ailleurs, notre service comptable ne trouve pas le numéro de tva sur la dernière facture. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Hugo Bernard (Kermor Industrie)",reclamation,haute,client,reclamation_2
+email_0112,paul@brest-logistique.com,Question sur vos offres,"Bonjour Madame, Monsieur,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Brest Logistique",demande_info,basse,client,demande_info_2
+email_0113,thomas@armor-tech.com,Question sur ma facture,"Bonjour Madame, Monsieur,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ? Vous pouvez me répondre la semaine prochaine.
+
+Bien à vous,
+Thomas Moreau (Armor Tech)",facturation,basse,client,facturation_2
+email_0114,claire@kermor-industrie.com,Renouvellement de contrat,"Bonjour,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Par ailleurs, je voudrais m'inscrire à la formation python avancé du mois prochain. Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Claire Martin (Kermor Industrie)",commercial,basse,client,commercial_3
+email_0115,sofia@datasud.com,Erreur lors de l'export,"Bonjour,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, DataSud",support_technique,moyenne,client,support_technique_1
+email_0116,yann@brest-logistique.com,Disponibilité,"Bonjour,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Par ailleurs, vous trouverez ci-joint ma note de frais pour le déplacement à lyon. Vous pouvez me répondre la semaine prochaine.
+
+Yann Le Gall
+Compte clé, Brest Logistique",demande_info,basse,fournisseur,demande_info_1
+email_0117,paul@armor-tech.com,Disponibilité,"Hello,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ?
+
+Bien à vous,
+Paul Nguyen (Armor Tech)",demande_info,moyenne,client,demande_info_0
+email_0118,yann@brest-logistique.com,Problème de connexion,"Bonjour,
+
+Après la dernière mise à jour, l'application est devenue très lente et certaines pages ne chargent plus. Par ailleurs, je voudrais m'inscrire à la formation python avancé du mois prochain.
+
+Bien à vous,
+Yann Le Gall (Brest Logistique)",support_technique,moyenne,client,support_technique_2
+email_0119,yann@kermor-industrie.com,Erreur de montant,"Bonjour Madame, Monsieur,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Pas d'urgence, c'est pour information.
+
+Yann Le Gall
+Compte clé, Kermor Industrie",facturation,basse,fournisseur,facturation_3
+email_0120,yann@notre-entreprise.fr,Problème de connexion,"Bonjour Madame, Monsieur,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting.
+
+Merci,
+Yann Le Gall",support_technique,moyenne,interne,support_technique_4
+email_0121,thomas@ouest-distribution.com,Erreur lors de l'export,"Hello,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, c'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Le client final attend une réponse ce soir.
+
+Bien à vous,
+Thomas Moreau (Ouest Distribution)",support_technique,haute,client,support_technique_1
+email_0122,paul@atlantis-sa.com,Question sur ma facture,"Bonjour,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Pas d'urgence, c'est pour information.
+
+Paul Nguyen
+Compte clé, Atlantis SA",facturation,basse,fournisseur,facturation_3
+email_0123,paul@armor-tech.com,Livraison non conforme,"Bonjour,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Par ailleurs, pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Paul Nguyen (Armor Tech)",reclamation,haute,client,reclamation_0
+email_0124,thomas@brest-logistique.com,Question sur vos offres,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Rien de pressé, quand vous aurez un moment.
+
+Thomas Moreau
+Compte clé, Brest Logistique",demande_info,basse,fournisseur,demande_info_2
+email_0125,inès@nova-retail.com,Demande de devis,"Hello,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest.
+
+Bien à vous,
+Inès Garcia (Nova Retail)",commercial,moyenne,client,commercial_1
+email_0126,hugo@datasud.com,Livraison non conforme,"Bonjour à tous,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Cordialement,
+Hugo Bernard
+Responsable achats, DataSud",reclamation,haute,client,reclamation_2
+email_0127,sofia@armor-tech.com,Plainte,"Bonjour,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Notre clôture comptable a lieu cette semaine.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Armor Tech",reclamation,haute,client,reclamation_1
+email_0128,nadia@datasud.com,Service inacceptable,"Hello,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Nadia Benali
+Responsable achats, DataSud",reclamation,haute,client,reclamation_1
+email_0129,amina@brest-logistique.com,Réclamation commande,"Bonjour,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Amina Diallo (Brest Logistique)",reclamation,haute,client,reclamation_2
+email_0130,thomas@atlantis-sa.com,Renouvellement de contrat,"Hello,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Par ailleurs, je souhaiterais savoir si votre solution est compatible avec notre erp. Toute notre production est bloquée.
+
+Bien à vous,
+Thomas Moreau (Atlantis SA)",commercial,haute,client,commercial_4
+email_0131,lucas@notre-entreprise.fr,Formation,"Bonjour à tous,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Pas d'urgence, c'est pour information.
+
+À plus,
+Lucas Petit
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0132,inès@armor-tech.com,Erreur de montant,"Bonjour Madame, Monsieur,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Pas d'urgence, c'est pour information.
+
+Cordialement,
+Inès Garcia
+Service commercial, Armor Tech",facturation,basse,fournisseur,facturation_3
+email_0133,inès@brest-logistique.com,Renouvellement de contrat,"Hello,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Brest Logistique",commercial,moyenne,client,commercial_0
+email_0134,thomas@datasud.com,Erreur lors de l'export,"Bonjour à tous,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ? Toute notre production est bloquée.
+
+Cordialement,
+Thomas Moreau
+Responsable achats, DataSud",support_technique,haute,client,support_technique_3
+email_0135,yann@kermor-industrie.com,Lenteurs depuis la mise à jour,"Hello,
+
+Après la dernière mise à jour, l'application est devenue très lente et certaines pages ne chargent plus.
+
+Cordialement,
+Yann Le Gall
+Responsable achats, Kermor Industrie",support_technique,moyenne,client,support_technique_2
+email_0136,amina@notre-entreprise.fr,Erreur lors de l'export,"Bonjour,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, quels sont vos délais habituels de mise en service pour une pme ?
+
+À plus,
+Amina Diallo
+Équipe Data",support_technique,moyenne,interne,support_technique_1
+email_0137,paul@armor-tech.com,Erreur lors de l'export,"Hello,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Armor Tech",support_technique,basse,client,support_technique_1
+email_0138,paul@ouest-distribution.com,Question sur ma facture,"Bonjour,
+
+Nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser.
+
+Cordialement,
+Paul Nguyen
+Service commercial, Ouest Distribution",facturation,moyenne,fournisseur,facturation_0
+email_0139,amina@helio-conseil.com,Documentation,"Bonjour,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ?
+
+Amina Diallo
+Compte clé, Helio Conseil",demande_info,moyenne,fournisseur,demande_info_0
+email_0140,hugo@datasud.com,Proposition de partenariat,"Bonjour,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ?
+
+Cordialement,
+Hugo Bernard
+Service commercial, DataSud",commercial,moyenne,fournisseur,commercial_4
+email_0141,yann@brest-logistique.com,Renseignements,"Bonjour Madame, Monsieur,
+
+Quels sont vos délais habituels de mise en service pour une PME ? Rien de pressé, quand vous aurez un moment.
+
+Bien à vous,
+Yann Le Gall (Brest Logistique)",demande_info,basse,client,demande_info_3
+email_0142,amina@notre-entreprise.fr,Entretien annuel,"Bonjour Madame, Monsieur,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Par ailleurs, nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Amina Diallo
+Équipe Data",rh_interne,basse,interne,rh_interne_2
+email_0143,yann@helio-conseil.com,Demande d'avoir,"Bonjour à tous,
+
+Nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Yann Le Gall (Helio Conseil)",facturation,haute,client,facturation_0
+email_0144,sofia@brest-logistique.com,Réclamation commande,"Bonjour à tous,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Sofia Rossi (Brest Logistique)",reclamation,haute,client,reclamation_2
+email_0145,inès@helio-conseil.com,Disponibilité,"Bonjour à tous,
+
+Quels sont vos délais habituels de mise en service pour une PME ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Cordialement,
+Inès Garcia
+Service commercial, Helio Conseil",demande_info,haute,fournisseur,demande_info_3
+email_0146,yann@helio-conseil.com,Lenteurs depuis la mise à jour,"Bonjour à tous,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Rien de pressé, quand vous aurez un moment.
+
+Bien à vous,
+Yann Le Gall (Helio Conseil)",support_technique,basse,client,support_technique_1
+email_0147,paul@armor-tech.com,Proposition de partenariat,"Bonjour,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Paul Nguyen
+Compte clé, Armor Tech",commercial,haute,fournisseur,commercial_3
+email_0148,amina@notre-entreprise.fr,Impossible d'accéder au tableau de bord,"Bonjour à tous,
+
+Après la dernière mise à jour, l'application est devenue très lente et certaines pages ne chargent plus.
+
+Merci,
+Amina Diallo",support_technique,moyenne,interne,support_technique_2
+email_0149,paul@atlantis-sa.com,Problème de connexion,"Bonjour à tous,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Pas d'urgence, c'est pour information.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Atlantis SA",support_technique,basse,client,support_technique_1
+email_0150,lucas@brest-logistique.com,Livraison non conforme,"Bonjour Madame, Monsieur,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Brest Logistique",reclamation,haute,client,reclamation_0
+email_0151,lucas@brest-logistique.com,Disponibilité,"Bonjour,
+
+Est-il possible d'héberger les données en France ? Par ailleurs, le matériel livré est endommagé, je souhaite déposer une réclamation officielle. Le client final attend une réponse ce soir.
+
+Cordialement,
+Lucas Petit
+Service commercial, Brest Logistique",demande_info,haute,fournisseur,demande_info_4
+email_0152,yann@datasud.com,Disponibilité,"Hello,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ?
+
+Cordialement,
+Yann Le Gall
+Responsable achats, DataSud",demande_info,moyenne,client,demande_info_0
+email_0153,lucas@ouest-distribution.com,Réclamation commande,"Hello,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Nous avons une démonstration importante demain matin.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Ouest Distribution",reclamation,haute,client,reclamation_2
+email_0154,thomas@armor-tech.com,Extension de licence,"Bonjour,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Par ailleurs, depuis ce matin, je n'arrive plus à me connecter à mon compte, le message 'erreur 500' s'affiche. Vous pouvez me répondre la semaine prochaine.
+
+Thomas Moreau
+Compte clé, Armor Tech",commercial,basse,fournisseur,commercial_4
+email_0155,inès@nova-retail.com,Question sur ma facture,"Bonjour à tous,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Rien de pressé, quand vous aurez un moment.
+
+Cordialement,
+Inès Garcia
+Service commercial, Nova Retail",facturation,basse,fournisseur,facturation_3
+email_0156,lucas@datasud.com,Demande de devis,"Bonjour,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Par ailleurs, le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Vous pouvez me répondre la semaine prochaine.
+
+Bien à vous,
+Lucas Petit (DataSud)",commercial,basse,client,commercial_4
+email_0157,paul@nova-retail.com,Plainte,"Hello,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Par ailleurs, est-il possible d'héberger les données en france ? Toute notre production est bloquée.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Nova Retail",reclamation,haute,client,reclamation_2
+email_0158,paul@armor-tech.com,Demande de devis,"Bonjour à tous,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires. Par ailleurs, peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ?
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Armor Tech",commercial,moyenne,client,commercial_0
+email_0159,sofia@notre-entreprise.fr,Planning de l'équipe,"Bonjour,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Pas d'urgence, c'est pour information.
+
+Merci,
+Sofia Rossi",rh_interne,basse,interne,rh_interne_3
+email_0160,yann@datasud.com,Demande d'avoir,"Bonjour à tous,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Rien de pressé, quand vous aurez un moment.
+
+Yann Le Gall
+Compte clé, DataSud",facturation,basse,fournisseur,facturation_3
+email_0161,hugo@atlantis-sa.com,Erreur de montant,"Bonjour à tous,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture. Par ailleurs, le matériel livré est endommagé, je souhaite déposer une réclamation officielle. Toute notre production est bloquée.
+
+Hugo Bernard
+Compte clé, Atlantis SA",facturation,haute,fournisseur,facturation_4
+email_0162,yann@kermor-industrie.com,Proposition de partenariat,"Bonjour à tous,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest.
+
+Cordialement,
+Yann Le Gall
+Service commercial, Kermor Industrie",commercial,moyenne,fournisseur,commercial_1
+email_0163,lucas@kermor-industrie.com,Extension de licence,"Bonjour,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Le client final attend une réponse ce soir.
+
+Lucas Petit
+Compte clé, Kermor Industrie",commercial,haute,fournisseur,commercial_2
+email_0164,thomas@helio-conseil.com,Impossible d'accéder au tableau de bord,"Bonjour,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting.
+
+Cordialement,
+Thomas Moreau
+Responsable achats, Helio Conseil",support_technique,moyenne,client,support_technique_4
+email_0165,claire@kermor-industrie.com,Informations produit,"Hello,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Claire Martin (Kermor Industrie)",demande_info,basse,client,demande_info_2
+email_0166,paul@brest-logistique.com,Lenteurs depuis la mise à jour,"Bonjour,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ? Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Brest Logistique",support_technique,basse,client,support_technique_3
+email_0167,lucas@armor-tech.com,Informations produit,"Bonjour,
+
+Est-il possible d'héberger les données en France ?
+
+Cordialement,
+Lucas Petit
+Responsable achats, Armor Tech",demande_info,moyenne,client,demande_info_4
+email_0168,yann@datasud.com,Erreur lors de l'export,"Bonjour à tous,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ? Toute notre production est bloquée.
+
+Cordialement,
+Yann Le Gall
+Responsable achats, DataSud",support_technique,haute,client,support_technique_3
+email_0169,paul@helio-conseil.com,Rendez-vous commercial,"Bonjour,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Pas d'urgence, c'est pour information.
+
+Paul Nguyen
+Compte clé, Helio Conseil",commercial,basse,fournisseur,commercial_2
+email_0170,paul@ouest-distribution.com,Mécontentement,"Bonjour Madame, Monsieur,
+
+Le matériel livré est endommagé, je souhaite déposer une réclamation officielle. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Paul Nguyen (Ouest Distribution)",reclamation,haute,client,reclamation_3
+email_0171,paul@notre-entreprise.fr,Entretien annuel,"Bonjour,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Par ailleurs, pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? C'est urgent, merci de traiter ce point aujourd'hui.
+
+Merci,
+Paul Nguyen",rh_interne,haute,interne,rh_interne_3
+email_0172,claire@nova-retail.com,Disponibilité,"Hello,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Le client final attend une réponse ce soir.
+
+Cordialement,
+Claire Martin
+Responsable achats, Nova Retail",demande_info,haute,client,demande_info_1
+email_0173,inès@notre-entreprise.fr,Entretien annuel,"Bonjour à tous,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+À plus,
+Inès Garcia
+Équipe Data",rh_interne,haute,interne,rh_interne_3
+email_0174,sofia@helio-conseil.com,Facture de septembre,"Bonjour à tous,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Helio Conseil",facturation,moyenne,client,facturation_4
+email_0175,paul@armor-tech.com,Service inacceptable,"Hello,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Paul Nguyen (Armor Tech)",reclamation,haute,client,reclamation_4
+email_0176,thomas@kermor-industrie.com,Question sur ma facture,"Hello,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Cordialement,
+Thomas Moreau
+Service commercial, Kermor Industrie",facturation,haute,fournisseur,facturation_2
+email_0177,lucas@atlantis-sa.com,Proposition de partenariat,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Cordialement,
+Lucas Petit
+Service commercial, Atlantis SA",commercial,moyenne,fournisseur,commercial_0
+email_0178,inès@nova-retail.com,Impossible d'accéder au tableau de bord,"Bonjour à tous,
+
+Après la dernière mise à jour, l'application est devenue très lente et certaines pages ne chargent plus. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Inès Garcia (Nova Retail)",support_technique,haute,client,support_technique_2
+email_0179,hugo@kermor-industrie.com,Question sur vos offres,"Bonjour Madame, Monsieur,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ?
+
+Cordialement,
+Hugo Bernard
+Service commercial, Kermor Industrie",demande_info,moyenne,fournisseur,demande_info_2
+email_0180,claire@atlantis-sa.com,Renseignements,"Bonjour,
+
+Quels sont vos délais habituels de mise en service pour une PME ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Claire Martin (Atlantis SA)",demande_info,haute,client,demande_info_3
+email_0181,sofia@kermor-industrie.com,Livraison non conforme,"Hello,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Notre clôture comptable a lieu cette semaine.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Kermor Industrie",reclamation,haute,client,reclamation_4
+email_0182,lucas@nova-retail.com,Facture de septembre,"Bonjour à tous,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Par ailleurs, avez-vous une documentation technique sur l'api que je pourrais consulter ?
+
+Lucas Petit
+Compte clé, Nova Retail",facturation,moyenne,fournisseur,facturation_1
+email_0183,lucas@atlantis-sa.com,Demande de devis,"Bonjour à tous,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Notre clôture comptable a lieu cette semaine.
+
+Lucas Petit
+Compte clé, Atlantis SA",commercial,haute,fournisseur,commercial_3
+email_0184,claire@helio-conseil.com,Facture de septembre,"Bonjour Madame, Monsieur,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ?
+
+Claire Martin
+Compte clé, Helio Conseil",facturation,moyenne,fournisseur,facturation_2
+email_0185,sofia@notre-entreprise.fr,Problème de connexion,"Hello,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ? Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Sofia Rossi
+Équipe Data",support_technique,basse,interne,support_technique_3
+email_0186,yann@armor-tech.com,Proposition de partenariat,"Bonjour Madame, Monsieur,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest. Vous pouvez me répondre la semaine prochaine.
+
+Bien à vous,
+Yann Le Gall (Armor Tech)",commercial,basse,client,commercial_1
+email_0187,hugo@atlantis-sa.com,Erreur de montant,"Bonjour Madame, Monsieur,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Hugo Bernard
+Responsable achats, Atlantis SA",facturation,basse,client,facturation_3
+email_0188,thomas@atlantis-sa.com,Erreur de montant,"Bonjour Madame, Monsieur,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Par ailleurs, nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Vous pouvez me répondre la semaine prochaine.
+
+Thomas Moreau
+Compte clé, Atlantis SA",facturation,basse,fournisseur,facturation_3
+email_0189,nadia@helio-conseil.com,Extension de licence,"Bonjour Madame, Monsieur,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Par ailleurs, avez-vous une documentation technique sur l'api que je pourrais consulter ?
+
+Cordialement,
+Nadia Benali
+Service commercial, Helio Conseil",commercial,moyenne,fournisseur,commercial_4
+email_0190,thomas@atlantis-sa.com,Demande de devis,"Bonjour à tous,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Thomas Moreau (Atlantis SA)",commercial,haute,client,commercial_3
+email_0191,nadia@brest-logistique.com,Demande d'avoir,"Hello,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ? Pas d'urgence, c'est pour information.
+
+Cordialement,
+Nadia Benali
+Responsable achats, Brest Logistique",facturation,basse,client,facturation_2
+email_0192,lucas@atlantis-sa.com,Lenteurs depuis la mise à jour,"Hello,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ?
+
+Cordialement,
+Lucas Petit
+Responsable achats, Atlantis SA",support_technique,moyenne,client,support_technique_3
+email_0193,lucas@ouest-distribution.com,Documentation,"Bonjour Madame, Monsieur,
+
+Quels sont vos délais habituels de mise en service pour une PME ?
+
+Lucas Petit
+Compte clé, Ouest Distribution",demande_info,moyenne,fournisseur,demande_info_3
+email_0194,lucas@kermor-industrie.com,Mécontentement,"Bonjour,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Kermor Industrie",reclamation,haute,client,reclamation_0
+email_0195,lucas@atlantis-sa.com,Extension de licence,"Bonjour à tous,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ?
+
+Bien à vous,
+Lucas Petit (Atlantis SA)",commercial,moyenne,client,commercial_4
+email_0196,paul@datasud.com,Question sur ma facture,"Bonjour Madame, Monsieur,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Vous pouvez me répondre la semaine prochaine.
+
+Bien à vous,
+Paul Nguyen (DataSud)",facturation,basse,client,facturation_1
+email_0197,nadia@ouest-distribution.com,Plainte,"Hello,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Toute notre production est bloquée.
+
+Cordialement,
+Nadia Benali
+Responsable achats, Ouest Distribution",reclamation,haute,client,reclamation_1
+email_0198,nadia@notre-entreprise.fr,Entretien annuel,"Bonjour Madame, Monsieur,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Pas d'urgence, c'est pour information.
+
+À plus,
+Nadia Benali
+Équipe Data",rh_interne,basse,interne,rh_interne_2
+email_0199,nadia@nova-retail.com,Double prélèvement,"Bonjour Madame, Monsieur,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium.
+
+Nadia Benali
+Compte clé, Nova Retail",facturation,moyenne,fournisseur,facturation_3
+email_0200,claire@helio-conseil.com,Service inacceptable,"Bonjour,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Claire Martin (Helio Conseil)",reclamation,haute,client,reclamation_0
+email_0201,claire@kermor-industrie.com,Lenteurs depuis la mise à jour,"Bonjour,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Cordialement,
+Claire Martin
+Responsable achats, Kermor Industrie",support_technique,haute,client,support_technique_4
+email_0202,inès@notre-entreprise.fr,Note de frais,"Bonjour à tous,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Inès Garcia
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0203,thomas@brest-logistique.com,Informations produit,"Hello,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Pas d'urgence, c'est pour information.
+
+Thomas Moreau
+Compte clé, Brest Logistique",demande_info,basse,fournisseur,demande_info_2
+email_0204,sofia@nova-retail.com,Facture de septembre,"Hello,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Par ailleurs, le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Le client final attend une réponse ce soir.
+
+Cordialement,
+Sofia Rossi
+Service commercial, Nova Retail",facturation,haute,fournisseur,facturation_3
+email_0205,yann@helio-conseil.com,Erreur de montant,"Bonjour à tous,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ?
+
+Yann Le Gall
+Compte clé, Helio Conseil",facturation,moyenne,fournisseur,facturation_1
+email_0206,inès@atlantis-sa.com,Informations produit,"Bonjour,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Par ailleurs, je voudrais m'inscrire à la formation python avancé du mois prochain. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Atlantis SA",demande_info,haute,client,demande_info_1
+email_0207,paul@ouest-distribution.com,Bug sur l'application,"Bonjour,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, c'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Paul Nguyen (Ouest Distribution)",support_technique,haute,client,support_technique_1
+email_0208,claire@notre-entreprise.fr,Lenteurs depuis la mise à jour,"Bonjour,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ? Par ailleurs, peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Pas d'urgence, c'est pour information.
+
+Merci,
+Claire Martin",support_technique,basse,interne,support_technique_3
+email_0209,sofia@notre-entreprise.fr,Bug sur l'application,"Hello,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ?
+
+Merci,
+Sofia Rossi",support_technique,moyenne,interne,support_technique_1
+email_0210,claire@brest-logistique.com,Documentation,"Bonjour à tous,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Claire Martin (Brest Logistique)",demande_info,haute,client,demande_info_1
+email_0211,hugo@ouest-distribution.com,Disponibilité,"Hello,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ?
+
+Hugo Bernard
+Compte clé, Ouest Distribution",demande_info,moyenne,fournisseur,demande_info_0
+email_0212,paul@ouest-distribution.com,Rendez-vous commercial,"Bonjour,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Bien à vous,
+Paul Nguyen (Ouest Distribution)",commercial,moyenne,client,commercial_0
+email_0213,claire@notre-entreprise.fr,Erreur lors de l'export,"Bonjour à tous,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Merci,
+Claire Martin",support_technique,haute,interne,support_technique_4
+email_0214,nadia@datasud.com,Bug sur l'application,"Bonjour Madame, Monsieur,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting.
+
+Bien à vous,
+Nadia Benali (DataSud)",support_technique,moyenne,client,support_technique_4
+email_0215,paul@notre-entreprise.fr,Entretien annuel,"Bonjour,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Par ailleurs, je souhaiterais savoir si votre solution est compatible avec notre erp. Pas d'urgence, c'est pour information.
+
+À plus,
+Paul Nguyen
+Équipe Data",rh_interne,basse,interne,rh_interne_2
+email_0216,nadia@notre-entreprise.fr,Formation,"Bonjour,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Pas d'urgence, c'est pour information.
+
+À plus,
+Nadia Benali
+Équipe Data",rh_interne,basse,interne,rh_interne_3
+email_0217,amina@armor-tech.com,Proposition de partenariat,"Hello,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires. Par ailleurs, je souhaite obtenir un avoir suite à la résiliation de l'option premium.
+
+Amina Diallo
+Compte clé, Armor Tech",commercial,moyenne,fournisseur,commercial_0
+email_0218,hugo@nova-retail.com,Problème de connexion,"Bonjour Madame, Monsieur,
+
+Après la dernière mise à jour, l'application est devenue très lente et certaines pages ne chargent plus.
+
+Cordialement,
+Hugo Bernard
+Responsable achats, Nova Retail",support_technique,moyenne,client,support_technique_2
+email_0219,paul@datasud.com,Documentation,"Bonjour,
+
+Est-il possible d'héberger les données en France ? Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Paul Nguyen (DataSud)",demande_info,haute,client,demande_info_4
+email_0220,paul@nova-retail.com,Livraison non conforme,"Bonjour Madame, Monsieur,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Toute notre production est bloquée.
+
+Bien à vous,
+Paul Nguyen (Nova Retail)",reclamation,haute,client,reclamation_0
+email_0221,sofia@ouest-distribution.com,Facture de septembre,"Hello,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ? Le client final attend une réponse ce soir.
+
+Cordialement,
+Sofia Rossi
+Service commercial, Ouest Distribution",facturation,haute,fournisseur,facturation_2
+email_0222,nadia@datasud.com,Livraison non conforme,"Hello,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Nadia Benali (DataSud)",reclamation,haute,client,reclamation_4
+email_0223,lucas@ouest-distribution.com,Disponibilité,"Bonjour Madame, Monsieur,
+
+Est-il possible d'héberger les données en France ? Par ailleurs, nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas.
+
+Bien à vous,
+Lucas Petit (Ouest Distribution)",demande_info,moyenne,client,demande_info_4
+email_0224,yann@armor-tech.com,Informations produit,"Bonjour à tous,
+
+Quels sont vos délais habituels de mise en service pour une PME ?
+
+Bien à vous,
+Yann Le Gall (Armor Tech)",demande_info,moyenne,client,demande_info_3
+email_0225,thomas@kermor-industrie.com,Plainte,"Hello,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Thomas Moreau (Kermor Industrie)",reclamation,haute,client,reclamation_1
+email_0226,nadia@notre-entreprise.fr,Formation,"Bonjour à tous,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Par ailleurs, le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Nadia Benali",rh_interne,basse,interne,rh_interne_3
+email_0227,nadia@atlantis-sa.com,Rendez-vous commercial,"Bonjour,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ?
+
+Nadia Benali
+Compte clé, Atlantis SA",commercial,moyenne,fournisseur,commercial_3
+email_0228,yann@armor-tech.com,Erreur lors de l'export,"Bonjour,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Le client final attend une réponse ce soir.
+
+Cordialement,
+Yann Le Gall
+Responsable achats, Armor Tech",support_technique,haute,client,support_technique_1
+email_0229,paul@kermor-industrie.com,Bug sur l'application,"Hello,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting.
+
+Bien à vous,
+Paul Nguyen (Kermor Industrie)",support_technique,moyenne,client,support_technique_4
+email_0230,hugo@nova-retail.com,Documentation,"Hello,
+
+Est-il possible d'héberger les données en France ? Par ailleurs, le bouton de validation ne réagit plus sur firefox, pouvez-vous regarder ? C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Hugo Bernard (Nova Retail)",demande_info,haute,client,demande_info_4
+email_0231,yann@brest-logistique.com,Réclamation commande,"Bonjour,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Le client final attend une réponse ce soir.
+
+Bien à vous,
+Yann Le Gall (Brest Logistique)",reclamation,haute,client,reclamation_4
+email_0232,lucas@notre-entreprise.fr,Demande de congés,"Hello,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Lucas Petit",rh_interne,basse,interne,rh_interne_2
+email_0233,amina@armor-tech.com,Extension de licence,"Bonjour,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest.
+
+Amina Diallo
+Compte clé, Armor Tech",commercial,moyenne,fournisseur,commercial_1
+email_0234,hugo@notre-entreprise.fr,Formation,"Hello,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Notre clôture comptable a lieu cette semaine.
+
+Merci,
+Hugo Bernard",rh_interne,haute,interne,rh_interne_4
+email_0235,paul@armor-tech.com,Livraison non conforme,"Bonjour,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Paul Nguyen (Armor Tech)",reclamation,haute,client,reclamation_0
+email_0236,hugo@kermor-industrie.com,Livraison non conforme,"Bonjour,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Par ailleurs, est-il possible d'héberger les données en france ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Hugo Bernard (Kermor Industrie)",reclamation,haute,client,reclamation_4
+email_0237,paul@armor-tech.com,Double prélèvement,"Bonjour Madame, Monsieur,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Paul Nguyen
+Compte clé, Armor Tech",facturation,moyenne,fournisseur,facturation_4
+email_0238,amina@datasud.com,Documentation,"Bonjour,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP. Rien de pressé, quand vous aurez un moment.
+
+Amina Diallo
+Compte clé, DataSud",demande_info,basse,fournisseur,demande_info_1
+email_0239,nadia@ouest-distribution.com,Livraison non conforme,"Bonjour Madame, Monsieur,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Par ailleurs, nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Le client final attend une réponse ce soir.
+
+Bien à vous,
+Nadia Benali (Ouest Distribution)",reclamation,haute,client,reclamation_1
+email_0240,sofia@notre-entreprise.fr,Problème de connexion,"Bonjour à tous,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Sofia Rossi
+Équipe Data",support_technique,basse,interne,support_technique_1
+email_0241,inès@atlantis-sa.com,Rendez-vous commercial,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires. Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Inès Garcia (Atlantis SA)",commercial,basse,client,commercial_0
+email_0242,thomas@brest-logistique.com,Question sur vos offres,"Bonjour Madame, Monsieur,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Nous avons une démonstration importante demain matin.
+
+Cordialement,
+Thomas Moreau
+Responsable achats, Brest Logistique",demande_info,haute,client,demande_info_2
+email_0243,paul@notre-entreprise.fr,Entretien annuel,"Bonjour Madame, Monsieur,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Par ailleurs, le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Paul Nguyen
+Équipe Data",rh_interne,basse,interne,rh_interne_3
+email_0244,amina@armor-tech.com,Service inacceptable,"Hello,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Amina Diallo
+Responsable achats, Armor Tech",reclamation,haute,client,reclamation_4
+email_0245,nadia@notre-entreprise.fr,Note de frais,"Hello,
+
+Vous trouverez ci-joint ma note de frais pour le déplacement à Lyon. Par ailleurs, le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Vous pouvez me répondre la semaine prochaine.
+
+Merci,
+Nadia Benali",rh_interne,basse,interne,rh_interne_1
+email_0246,yann@notre-entreprise.fr,Formation,"Hello,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Par ailleurs, le bouton de validation ne réagit plus sur firefox, pouvez-vous regarder ? Pas d'urgence, c'est pour information.
+
+À plus,
+Yann Le Gall
+Équipe Data",rh_interne,basse,interne,rh_interne_3
+email_0247,hugo@armor-tech.com,Demande de devis,"Bonjour à tous,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ?
+
+Cordialement,
+Hugo Bernard
+Responsable achats, Armor Tech",commercial,moyenne,client,commercial_3
+email_0248,amina@ouest-distribution.com,Facture de septembre,"Bonjour,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ? Vous pouvez me répondre la semaine prochaine.
+
+Amina Diallo
+Compte clé, Ouest Distribution",facturation,basse,fournisseur,facturation_2
+email_0249,lucas@nova-retail.com,Impossible d'accéder au tableau de bord,"Bonjour Madame, Monsieur,
+
+Depuis ce matin, je n'arrive plus à me connecter à mon compte, le message 'erreur 500' s'affiche. Par ailleurs, le matériel livré est endommagé, je souhaite déposer une réclamation officielle. Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Lucas Petit (Nova Retail)",support_technique,basse,client,support_technique_0
+email_0250,nadia@brest-logistique.com,Service inacceptable,"Bonjour,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Par ailleurs, nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser. Toute notre production est bloquée.
+
+Cordialement,
+Nadia Benali
+Responsable achats, Brest Logistique",reclamation,haute,client,reclamation_2
+email_0251,claire@atlantis-sa.com,Question sur ma facture,"Bonjour,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Pas d'urgence, c'est pour information.
+
+Claire Martin
+Compte clé, Atlantis SA",facturation,basse,fournisseur,facturation_1
+email_0252,hugo@brest-logistique.com,Question sur vos offres,"Hello,
+
+Quels sont vos délais habituels de mise en service pour une PME ? Par ailleurs, nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Hugo Bernard
+Compte clé, Brest Logistique",demande_info,moyenne,fournisseur,demande_info_3
+email_0253,paul@nova-retail.com,Livraison non conforme,"Hello,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Paul Nguyen (Nova Retail)",reclamation,haute,client,reclamation_1
+email_0254,hugo@notre-entreprise.fr,Note de frais,"Bonjour,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Hugo Bernard",rh_interne,basse,interne,rh_interne_3
+email_0255,lucas@helio-conseil.com,Renouvellement de contrat,"Hello,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Nous avons une démonstration importante demain matin.
+
+Cordialement,
+Lucas Petit
+Service commercial, Helio Conseil",commercial,haute,fournisseur,commercial_3
+email_0256,lucas@ouest-distribution.com,Demande d'avoir,"Bonjour,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ?
+
+Bien à vous,
+Lucas Petit (Ouest Distribution)",facturation,moyenne,client,facturation_2
+email_0257,yann@datasud.com,Erreur de montant,"Bonjour à tous,
+
+Nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser.
+
+Cordialement,
+Yann Le Gall
+Service commercial, DataSud",facturation,moyenne,fournisseur,facturation_0
+email_0258,hugo@atlantis-sa.com,Renouvellement de contrat,"Bonjour,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ?
+
+Cordialement,
+Hugo Bernard
+Service commercial, Atlantis SA",commercial,moyenne,fournisseur,commercial_4
+email_0259,nadia@armor-tech.com,Mécontentement,"Bonjour Madame, Monsieur,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Notre clôture comptable a lieu cette semaine.
+
+Cordialement,
+Nadia Benali
+Responsable achats, Armor Tech",reclamation,haute,client,reclamation_0
+email_0260,nadia@brest-logistique.com,Service inacceptable,"Bonjour à tous,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Nadia Benali (Brest Logistique)",reclamation,haute,client,reclamation_0
+email_0261,claire@notre-entreprise.fr,Demande de congés,"Bonjour,
+
+Vous trouverez ci-joint ma note de frais pour le déplacement à Lyon. Par ailleurs, pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Vous pouvez me répondre la semaine prochaine.
+
+Merci,
+Claire Martin",rh_interne,basse,interne,rh_interne_1
+email_0262,sofia@notre-entreprise.fr,Bug sur l'application,"Bonjour Madame, Monsieur,
+
+Depuis ce matin, je n'arrive plus à me connecter à mon compte, le message 'erreur 500' s'affiche. Par ailleurs, est-il possible d'héberger les données en france ? Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Sofia Rossi
+Équipe Data",support_technique,basse,interne,support_technique_0
+email_0263,hugo@notre-entreprise.fr,Demande de congés,"Bonjour à tous,
+
+Je souhaiterais poser mes congés du 12 au 23 août, merci de valider. Vous pouvez me répondre la semaine prochaine.
+
+Merci,
+Hugo Bernard",rh_interne,basse,interne,rh_interne_0
+email_0264,yann@nova-retail.com,Informations produit,"Bonjour,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ?
+
+Yann Le Gall
+Compte clé, Nova Retail",demande_info,moyenne,fournisseur,demande_info_0
+email_0265,amina@atlantis-sa.com,Proposition de partenariat,"Bonjour Madame, Monsieur,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Par ailleurs, l'export csv plante systématiquement dès que je sélectionne plus d'un mois de données. Toute notre production est bloquée.
+
+Bien à vous,
+Amina Diallo (Atlantis SA)",commercial,haute,client,commercial_4
+email_0266,amina@kermor-industrie.com,Livraison non conforme,"Bonjour à tous,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Amina Diallo
+Responsable achats, Kermor Industrie",reclamation,haute,client,reclamation_2
+email_0267,claire@datasud.com,Erreur lors de l'export,"Hello,
+
+Après la dernière mise à jour, l'application est devenue très lente et certaines pages ne chargent plus.
+
+Cordialement,
+Claire Martin
+Responsable achats, DataSud",support_technique,moyenne,client,support_technique_2
+email_0268,thomas@kermor-industrie.com,Rendez-vous commercial,"Bonjour Madame, Monsieur,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest.
+
+Cordialement,
+Thomas Moreau
+Service commercial, Kermor Industrie",commercial,moyenne,fournisseur,commercial_1
+email_0269,claire@datasud.com,Problème de connexion,"Bonjour à tous,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données.
+
+Cordialement,
+Claire Martin
+Responsable achats, DataSud",support_technique,moyenne,client,support_technique_1
+email_0270,amina@notre-entreprise.fr,Demande de congés,"Bonjour,
+
+Vous trouverez ci-joint ma note de frais pour le déplacement à Lyon. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Merci,
+Amina Diallo",rh_interne,haute,interne,rh_interne_1
+email_0271,nadia@brest-logistique.com,Facture de septembre,"Bonjour à tous,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Nous avons une démonstration importante demain matin.
+
+Cordialement,
+Nadia Benali
+Service commercial, Brest Logistique",facturation,haute,fournisseur,facturation_3
+email_0272,yann@notre-entreprise.fr,Note de frais,"Hello,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Pas d'urgence, c'est pour information.
+
+À plus,
+Yann Le Gall
+Équipe Data",rh_interne,basse,interne,rh_interne_2
+email_0273,amina@brest-logistique.com,Double prélèvement,"Bonjour à tous,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ?
+
+Cordialement,
+Amina Diallo
+Responsable achats, Brest Logistique",facturation,moyenne,client,facturation_1
+email_0274,lucas@ouest-distribution.com,Disponibilité,"Bonjour à tous,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ?
+
+Bien à vous,
+Lucas Petit (Ouest Distribution)",demande_info,moyenne,client,demande_info_0
+email_0275,lucas@datasud.com,Mécontentement,"Bonjour,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Lucas Petit
+Responsable achats, DataSud",reclamation,haute,client,reclamation_1
+email_0276,amina@notre-entreprise.fr,Planning de l'équipe,"Bonjour à tous,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Pas d'urgence, c'est pour information.
+
+À plus,
+Amina Diallo
+Équipe Data",rh_interne,basse,interne,rh_interne_3
+email_0277,amina@kermor-industrie.com,Demande de devis,"Hello,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Par ailleurs, nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser. Toute notre production est bloquée.
+
+Bien à vous,
+Amina Diallo (Kermor Industrie)",commercial,haute,client,commercial_3
+email_0278,hugo@notre-entreprise.fr,Entretien annuel,"Bonjour Madame, Monsieur,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Hugo Bernard
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0279,nadia@ouest-distribution.com,Problème de connexion,"Bonjour à tous,
+
+Depuis ce matin, je n'arrive plus à me connecter à mon compte, le message 'erreur 500' s'affiche. Le client final attend une réponse ce soir.
+
+Cordialement,
+Nadia Benali
+Responsable achats, Ouest Distribution",support_technique,haute,client,support_technique_0
+email_0280,claire@notre-entreprise.fr,Note de frais,"Bonjour à tous,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Nous avons une démonstration importante demain matin.
+
+À plus,
+Claire Martin
+Équipe Data",rh_interne,haute,interne,rh_interne_2
+email_0281,inès@kermor-industrie.com,Disponibilité,"Bonjour à tous,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Par ailleurs, nous serions intéressés par un partenariat de distribution sur la région ouest. Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Inès Garcia
+Service commercial, Kermor Industrie",demande_info,basse,fournisseur,demande_info_0
+email_0282,inès@notre-entreprise.fr,Formation,"Hello,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Inès Garcia
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0283,sofia@atlantis-sa.com,Facture de septembre,"Hello,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Bien à vous,
+Sofia Rossi (Atlantis SA)",facturation,moyenne,client,facturation_4
+email_0284,lucas@armor-tech.com,Proposition de partenariat,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Lucas Petit (Armor Tech)",commercial,haute,client,commercial_0
+email_0285,paul@atlantis-sa.com,Erreur de montant,"Bonjour Madame, Monsieur,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ?
+
+Bien à vous,
+Paul Nguyen (Atlantis SA)",facturation,moyenne,client,facturation_2
+email_0286,claire@kermor-industrie.com,Extension de licence,"Bonjour,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Rien de pressé, quand vous aurez un moment.
+
+Cordialement,
+Claire Martin
+Responsable achats, Kermor Industrie",commercial,basse,client,commercial_4
+email_0287,yann@atlantis-sa.com,Demande de devis,"Bonjour Madame, Monsieur,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Nous avons une démonstration importante demain matin.
+
+Cordialement,
+Yann Le Gall
+Service commercial, Atlantis SA",commercial,haute,fournisseur,commercial_2
+email_0288,yann@armor-tech.com,Demande de devis,"Hello,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ?
+
+Cordialement,
+Yann Le Gall
+Responsable achats, Armor Tech",commercial,moyenne,client,commercial_4
+email_0289,yann@nova-retail.com,Réclamation commande,"Bonjour Madame, Monsieur,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Le client final attend une réponse ce soir.
+
+Bien à vous,
+Yann Le Gall (Nova Retail)",reclamation,haute,client,reclamation_1
+email_0290,claire@notre-entreprise.fr,Formation,"Bonjour Madame, Monsieur,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Claire Martin",rh_interne,basse,interne,rh_interne_2
+email_0291,hugo@kermor-industrie.com,Rendez-vous commercial,"Hello,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Hugo Bernard
+Compte clé, Kermor Industrie",commercial,haute,fournisseur,commercial_1
+email_0292,yann@helio-conseil.com,Facture de septembre,"Bonjour,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Par ailleurs, le produit reçu ne correspond pas du tout à la commande, je demande un remboursement.
+
+Cordialement,
+Yann Le Gall
+Responsable achats, Helio Conseil",facturation,moyenne,client,facturation_3
+email_0293,thomas@armor-tech.com,Impossible d'accéder au tableau de bord,"Bonjour à tous,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ?
+
+Bien à vous,
+Thomas Moreau (Armor Tech)",support_technique,moyenne,client,support_technique_3
+email_0294,sofia@brest-logistique.com,Lenteurs depuis la mise à jour,"Hello,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser. Pas d'urgence, c'est pour information.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Brest Logistique",support_technique,basse,client,support_technique_1
+email_0295,hugo@datasud.com,Double prélèvement,"Bonjour,
+
+Nous avons été prélevés deux fois pour la facture du mois dernier, merci de régulariser.
+
+Hugo Bernard
+Compte clé, DataSud",facturation,moyenne,fournisseur,facturation_0
+email_0296,lucas@armor-tech.com,Question sur vos offres,"Hello,
+
+Est-il possible d'héberger les données en France ? Nous avons une démonstration importante demain matin.
+
+Lucas Petit
+Compte clé, Armor Tech",demande_info,haute,fournisseur,demande_info_4
+email_0297,yann@atlantis-sa.com,Mécontentement,"Bonjour,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Yann Le Gall (Atlantis SA)",reclamation,haute,client,reclamation_0
+email_0298,sofia@armor-tech.com,Réclamation commande,"Bonjour à tous,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Par ailleurs, pourriez-vous m'envoyer la facture de septembre au format pdf pour notre comptabilité ? C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Sofia Rossi (Armor Tech)",reclamation,haute,client,reclamation_0
+email_0299,yann@notre-entreprise.fr,Demande de congés,"Bonjour,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Pas d'urgence, c'est pour information.
+
+À plus,
+Yann Le Gall
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0300,hugo@datasud.com,Livraison non conforme,"Bonjour Madame, Monsieur,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Hugo Bernard (DataSud)",reclamation,haute,client,reclamation_2
+email_0301,paul@kermor-industrie.com,Extension de licence,"Hello,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Pas d'urgence, c'est pour information.
+
+Bien à vous,
+Paul Nguyen (Kermor Industrie)",commercial,basse,client,commercial_4
+email_0302,paul@nova-retail.com,Problème de connexion,"Bonjour à tous,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Nova Retail",support_technique,basse,client,support_technique_4
+email_0303,nadia@kermor-industrie.com,Double prélèvement,"Hello,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Par ailleurs, nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Cordialement,
+Nadia Benali
+Responsable achats, Kermor Industrie",facturation,moyenne,client,facturation_1
+email_0304,claire@armor-tech.com,Mécontentement,"Bonjour à tous,
+
+Le matériel livré est endommagé, je souhaite déposer une réclamation officielle. Le client final attend une réponse ce soir.
+
+Cordialement,
+Claire Martin
+Responsable achats, Armor Tech",reclamation,haute,client,reclamation_3
+email_0305,hugo@brest-logistique.com,Erreur de montant,"Hello,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Cordialement,
+Hugo Bernard
+Responsable achats, Brest Logistique",facturation,moyenne,client,facturation_4
+email_0306,thomas@atlantis-sa.com,Extension de licence,"Hello,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Thomas Moreau
+Service commercial, Atlantis SA",commercial,basse,fournisseur,commercial_2
+email_0307,yann@kermor-industrie.com,Documentation,"Bonjour à tous,
+
+Est-il possible d'héberger les données en France ? Pas d'urgence, c'est pour information.
+
+Cordialement,
+Yann Le Gall
+Responsable achats, Kermor Industrie",demande_info,basse,client,demande_info_4
+email_0308,hugo@kermor-industrie.com,Mécontentement,"Hello,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Notre clôture comptable a lieu cette semaine.
+
+Cordialement,
+Hugo Bernard
+Responsable achats, Kermor Industrie",reclamation,haute,client,reclamation_2
+email_0309,lucas@notre-entreprise.fr,Planning de l'équipe,"Bonjour à tous,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Lucas Petit",rh_interne,basse,interne,rh_interne_2
+email_0310,hugo@notre-entreprise.fr,Entretien annuel,"Bonjour Madame, Monsieur,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Hugo Bernard
+Équipe Data",rh_interne,basse,interne,rh_interne_2
+email_0311,thomas@atlantis-sa.com,Proposition de partenariat,"Bonjour Madame, Monsieur,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest. Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Thomas Moreau (Atlantis SA)",commercial,haute,client,commercial_1
+email_0312,yann@ouest-distribution.com,Livraison non conforme,"Bonjour Madame, Monsieur,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Toute notre production est bloquée.
+
+Bien à vous,
+Yann Le Gall (Ouest Distribution)",reclamation,haute,client,reclamation_4
+email_0313,sofia@brest-logistique.com,Documentation,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ?
+
+Sofia Rossi
+Compte clé, Brest Logistique",demande_info,moyenne,fournisseur,demande_info_2
+email_0314,lucas@helio-conseil.com,Question sur vos offres,"Bonjour,
+
+Est-il possible d'héberger les données en France ? Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Lucas Petit (Helio Conseil)",demande_info,haute,client,demande_info_4
+email_0315,lucas@notre-entreprise.fr,Formation,"Hello,
+
+Vous trouverez ci-joint ma note de frais pour le déplacement à Lyon. Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Lucas Petit
+Équipe Data",rh_interne,basse,interne,rh_interne_1
+email_0316,inès@armor-tech.com,Informations produit,"Bonjour,
+
+Quels sont vos délais habituels de mise en service pour une PME ? Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Armor Tech",demande_info,basse,client,demande_info_3
+email_0317,thomas@brest-logistique.com,Rendez-vous commercial,"Hello,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ? Rien de pressé, quand vous aurez un moment.
+
+Thomas Moreau
+Compte clé, Brest Logistique",commercial,basse,fournisseur,commercial_4
+email_0318,sofia@notre-entreprise.fr,Planning de l'équipe,"Bonjour Madame, Monsieur,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Vous pouvez me répondre la semaine prochaine.
+
+Merci,
+Sofia Rossi",rh_interne,basse,interne,rh_interne_2
+email_0319,thomas@notre-entreprise.fr,Impossible d'accéder au tableau de bord,"Bonjour à tous,
+
+Après la dernière mise à jour, l'application est devenue très lente et certaines pages ne chargent plus.
+
+À plus,
+Thomas Moreau
+Équipe Data",support_technique,moyenne,interne,support_technique_2
+email_0320,lucas@datasud.com,Renseignements,"Bonjour à tous,
+
+Est-il possible d'héberger les données en France ?
+
+Cordialement,
+Lucas Petit
+Responsable achats, DataSud",demande_info,moyenne,client,demande_info_4
+email_0321,amina@notre-entreprise.fr,Entretien annuel,"Bonjour à tous,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Vous pouvez me répondre la semaine prochaine.
+
+Merci,
+Amina Diallo",rh_interne,basse,interne,rh_interne_2
+email_0322,hugo@kermor-industrie.com,Erreur de montant,"Bonjour Madame, Monsieur,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ?
+
+Hugo Bernard
+Compte clé, Kermor Industrie",facturation,moyenne,fournisseur,facturation_1
+email_0323,hugo@notre-entreprise.fr,Formation,"Bonjour,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Pas d'urgence, c'est pour information.
+
+Merci,
+Hugo Bernard",rh_interne,basse,interne,rh_interne_2
+email_0324,nadia@atlantis-sa.com,Documentation,"Bonjour Madame, Monsieur,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Pas d'urgence, c'est pour information.
+
+Cordialement,
+Nadia Benali
+Responsable achats, Atlantis SA",demande_info,basse,client,demande_info_0
+email_0325,amina@datasud.com,Demande d'avoir,"Bonjour,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Cordialement,
+Amina Diallo
+Service commercial, DataSud",facturation,moyenne,fournisseur,facturation_4
+email_0326,paul@nova-retail.com,Question sur vos offres,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Nous avons une démonstration importante demain matin.
+
+Bien à vous,
+Paul Nguyen (Nova Retail)",demande_info,haute,client,demande_info_2
+email_0327,claire@kermor-industrie.com,Demande d'avoir,"Bonjour,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Rien de pressé, quand vous aurez un moment.
+
+Claire Martin
+Compte clé, Kermor Industrie",facturation,basse,fournisseur,facturation_3
+email_0328,sofia@nova-retail.com,Mécontentement,"Bonjour à tous,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Nova Retail",reclamation,haute,client,reclamation_0
+email_0329,thomas@datasud.com,Proposition de partenariat,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires. Pas d'urgence, c'est pour information.
+
+Thomas Moreau
+Compte clé, DataSud",commercial,basse,fournisseur,commercial_0
+email_0330,lucas@atlantis-sa.com,Service inacceptable,"Bonjour,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Par ailleurs, nous aimerions recevoir un devis pour 50 licences supplémentaires. Toute notre production est bloquée.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Atlantis SA",reclamation,haute,client,reclamation_1
+email_0331,hugo@atlantis-sa.com,Livraison non conforme,"Bonjour,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Hugo Bernard
+Responsable achats, Atlantis SA",reclamation,haute,client,reclamation_2
+email_0332,lucas@atlantis-sa.com,Disponibilité,"Bonjour à tous,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Rien de pressé, quand vous aurez un moment.
+
+Bien à vous,
+Lucas Petit (Atlantis SA)",demande_info,basse,client,demande_info_0
+email_0333,hugo@notre-entreprise.fr,Entretien annuel,"Bonjour,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Pas d'urgence, c'est pour information.
+
+À plus,
+Hugo Bernard
+Équipe Data",rh_interne,basse,interne,rh_interne_2
+email_0334,yann@armor-tech.com,Bug sur l'application,"Bonjour Madame, Monsieur,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. Par ailleurs, est-il possible d'héberger les données en france ?
+
+Bien à vous,
+Yann Le Gall (Armor Tech)",support_technique,moyenne,client,support_technique_4
+email_0335,claire@notre-entreprise.fr,Impossible d'accéder au tableau de bord,"Bonjour,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Claire Martin",support_technique,basse,interne,support_technique_1
+email_0336,lucas@ouest-distribution.com,Proposition de partenariat,"Hello,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Lucas Petit
+Compte clé, Ouest Distribution",commercial,haute,fournisseur,commercial_0
+email_0337,yann@datasud.com,Renseignements,"Bonjour,
+
+Je souhaiterais savoir si votre solution est compatible avec notre ERP.
+
+Bien à vous,
+Yann Le Gall (DataSud)",demande_info,moyenne,client,demande_info_1
+email_0338,paul@helio-conseil.com,Problème de connexion,"Hello,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Le client final attend une réponse ce soir.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Helio Conseil",support_technique,haute,client,support_technique_1
+email_0339,nadia@nova-retail.com,Mécontentement,"Bonjour Madame, Monsieur,
+
+Le matériel livré est endommagé, je souhaite déposer une réclamation officielle. Le client final attend une réponse ce soir.
+
+Cordialement,
+Nadia Benali
+Responsable achats, Nova Retail",reclamation,haute,client,reclamation_3
+email_0340,thomas@notre-entreprise.fr,Note de frais,"Hello,
+
+Je souhaiterais poser mes congés du 12 au 23 août, merci de valider. Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Thomas Moreau
+Équipe Data",rh_interne,basse,interne,rh_interne_0
+email_0341,hugo@helio-conseil.com,Proposition de partenariat,"Bonjour,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? C'est urgent, merci de traiter ce point aujourd'hui.
+
+Bien à vous,
+Hugo Bernard (Helio Conseil)",commercial,haute,client,commercial_3
+email_0342,nadia@notre-entreprise.fr,Planning de l'équipe,"Hello,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Nadia Benali
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0343,amina@notre-entreprise.fr,Note de frais,"Bonjour Madame, Monsieur,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Amina Diallo
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0344,lucas@armor-tech.com,Erreur lors de l'export,"Bonjour Madame, Monsieur,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Vous pouvez me répondre la semaine prochaine.
+
+Bien à vous,
+Lucas Petit (Armor Tech)",support_technique,basse,client,support_technique_1
+email_0345,thomas@datasud.com,Impossible d'accéder au tableau de bord,"Bonjour à tous,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting.
+
+Cordialement,
+Thomas Moreau
+Responsable achats, DataSud",support_technique,moyenne,client,support_technique_4
+email_0346,hugo@notre-entreprise.fr,Demande de congés,"Bonjour à tous,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Hugo Bernard",rh_interne,basse,interne,rh_interne_3
+email_0347,yann@ouest-distribution.com,Mécontentement,"Bonjour,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Le client final attend une réponse ce soir.
+
+Cordialement,
+Yann Le Gall
+Responsable achats, Ouest Distribution",reclamation,haute,client,reclamation_1
+email_0348,inès@notre-entreprise.fr,Demande de congés,"Bonjour,
+
+Peux-tu mettre à jour le planning d'astreinte de la semaine prochaine ? Pas d'urgence, c'est pour information.
+
+Merci,
+Inès Garcia",rh_interne,basse,interne,rh_interne_2
+email_0349,lucas@ouest-distribution.com,Double prélèvement,"Hello,
+
+Je souhaite obtenir un avoir suite à la résiliation de l'option premium. Par ailleurs, vous trouverez ci-joint ma note de frais pour le déplacement à lyon. Le client final attend une réponse ce soir.
+
+Cordialement,
+Lucas Petit
+Service commercial, Ouest Distribution",facturation,haute,fournisseur,facturation_3
+email_0350,inès@nova-retail.com,Problème de connexion,"Bonjour,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. Par ailleurs, pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ?
+
+Bien à vous,
+Inès Garcia (Nova Retail)",support_technique,moyenne,client,support_technique_4
+email_0351,amina@nova-retail.com,Rendez-vous commercial,"Bonjour,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Amina Diallo
+Responsable achats, Nova Retail",commercial,basse,client,commercial_3
+email_0352,nadia@kermor-industrie.com,Documentation,"Bonjour à tous,
+
+Est-il possible d'héberger les données en France ? Pas d'urgence, c'est pour information.
+
+Nadia Benali
+Compte clé, Kermor Industrie",demande_info,basse,fournisseur,demande_info_4
+email_0353,inès@kermor-industrie.com,Livraison non conforme,"Bonjour Madame, Monsieur,
+
+Le produit reçu ne correspond pas du tout à la commande, je demande un remboursement. Par ailleurs, pouvons-nous fixer la date de mon entretien annuel ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Kermor Industrie",reclamation,haute,client,reclamation_1
+email_0354,amina@datasud.com,Renouvellement de contrat,"Hello,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest.
+
+Cordialement,
+Amina Diallo
+Service commercial, DataSud",commercial,moyenne,fournisseur,commercial_1
+email_0355,inès@helio-conseil.com,Rendez-vous commercial,"Bonjour,
+
+Nous souhaitons étendre l'abonnement à nos filiales, quel serait le tarif ?
+
+Inès Garcia
+Compte clé, Helio Conseil",commercial,moyenne,fournisseur,commercial_4
+email_0356,sofia@helio-conseil.com,Demande de devis,"Bonjour,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Par ailleurs, l'export csv plante systématiquement dès que je sélectionne plus d'un mois de données. Rien de pressé, quand vous aurez un moment.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, Helio Conseil",commercial,basse,client,commercial_3
+email_0357,inès@notre-entreprise.fr,Note de frais,"Bonjour Madame, Monsieur,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Par ailleurs, pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Inès Garcia
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0358,yann@atlantis-sa.com,Demande de devis,"Hello,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ?
+
+Cordialement,
+Yann Le Gall
+Service commercial, Atlantis SA",commercial,moyenne,fournisseur,commercial_3
+email_0359,lucas@kermor-industrie.com,Double prélèvement,"Bonjour à tous,
+
+Pourriez-vous m'envoyer la facture de septembre au format PDF pour notre comptabilité ? Vous pouvez me répondre la semaine prochaine.
+
+Lucas Petit
+Compte clé, Kermor Industrie",facturation,basse,fournisseur,facturation_2
+email_0360,inès@helio-conseil.com,Double prélèvement,"Bonjour Madame, Monsieur,
+
+Le montant de la facture ne correspond pas au devis signé, pouvez-vous vérifier ? Notre clôture comptable a lieu cette semaine.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Helio Conseil",facturation,haute,client,facturation_1
+email_0361,claire@nova-retail.com,Demande de devis,"Bonjour,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ?
+
+Claire Martin
+Compte clé, Nova Retail",commercial,moyenne,fournisseur,commercial_2
+email_0362,amina@notre-entreprise.fr,Formation,"Bonjour à tous,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Toute notre production est bloquée.
+
+Merci,
+Amina Diallo",rh_interne,haute,interne,rh_interne_4
+email_0363,sofia@kermor-industrie.com,Demande de devis,"Bonjour,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Sofia Rossi
+Compte clé, Kermor Industrie",commercial,haute,fournisseur,commercial_2
+email_0364,paul@notre-entreprise.fr,Erreur lors de l'export,"Hello,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ?
+
+Merci,
+Paul Nguyen",support_technique,moyenne,interne,support_technique_3
+email_0365,yann@ouest-distribution.com,Disponibilité,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Vous pouvez me répondre la semaine prochaine.
+
+Bien à vous,
+Yann Le Gall (Ouest Distribution)",demande_info,basse,client,demande_info_2
+email_0366,hugo@kermor-industrie.com,Service inacceptable,"Bonjour à tous,
+
+Nous envisageons de résilier notre contrat si la qualité de service ne s'améliore pas. Par ailleurs, l'export csv plante systématiquement dès que je sélectionne plus d'un mois de données. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Hugo Bernard
+Responsable achats, Kermor Industrie",reclamation,haute,client,reclamation_4
+email_0367,amina@atlantis-sa.com,Lenteurs depuis la mise à jour,"Hello,
+
+Le bouton de validation ne réagit plus sur Firefox, pouvez-vous regarder ?
+
+Bien à vous,
+Amina Diallo (Atlantis SA)",support_technique,moyenne,client,support_technique_3
+email_0368,nadia@armor-tech.com,Problème de connexion,"Bonjour à tous,
+
+Depuis ce matin, je n'arrive plus à me connecter à mon compte, le message 'erreur 500' s'affiche. Par ailleurs, est-il possible d'héberger les données en france ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Nadia Benali (Armor Tech)",support_technique,haute,client,support_technique_0
+email_0369,paul@brest-logistique.com,Renseignements,"Bonjour,
+
+Quels sont vos délais habituels de mise en service pour une PME ? Vous pouvez me répondre la semaine prochaine.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Brest Logistique",demande_info,basse,client,demande_info_3
+email_0370,nadia@atlantis-sa.com,Service inacceptable,"Bonjour Madame, Monsieur,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Le client final attend une réponse ce soir.
+
+Bien à vous,
+Nadia Benali (Atlantis SA)",reclamation,haute,client,reclamation_2
+email_0371,sofia@nova-retail.com,Proposition de partenariat,"Hello,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ?
+
+Bien à vous,
+Sofia Rossi (Nova Retail)",commercial,moyenne,client,commercial_3
+email_0372,inès@notre-entreprise.fr,Lenteurs depuis la mise à jour,"Bonjour Madame, Monsieur,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. Par ailleurs, notre service comptable ne trouve pas le numéro de tva sur la dernière facture.
+
+À plus,
+Inès Garcia
+Équipe Data",support_technique,moyenne,interne,support_technique_1
+email_0373,amina@notre-entreprise.fr,Note de frais,"Hello,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Rien de pressé, quand vous aurez un moment.
+
+Merci,
+Amina Diallo",rh_interne,basse,interne,rh_interne_3
+email_0374,inès@ouest-distribution.com,Double prélèvement,"Hello,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Cordialement,
+Inès Garcia
+Responsable achats, Ouest Distribution",facturation,moyenne,client,facturation_4
+email_0375,amina@notre-entreprise.fr,Planning de l'équipe,"Hello,
+
+Je souhaiterais poser mes congés du 12 au 23 août, merci de valider. Par ailleurs, pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? Pas d'urgence, c'est pour information.
+
+Merci,
+Amina Diallo",rh_interne,basse,interne,rh_interne_0
+email_0376,sofia@nova-retail.com,Proposition de partenariat,"Hello,
+
+Notre contrat arrive à échéance, pouvons-nous discuter des conditions de renouvellement ? Vous pouvez me répondre la semaine prochaine.
+
+Bien à vous,
+Sofia Rossi (Nova Retail)",commercial,basse,client,commercial_2
+email_0377,sofia@datasud.com,Renseignements,"Hello,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Le client final attend une réponse ce soir.
+
+Cordialement,
+Sofia Rossi
+Responsable achats, DataSud",demande_info,haute,client,demande_info_2
+email_0378,amina@brest-logistique.com,Disponibilité,"Bonjour Madame, Monsieur,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Rien de pressé, quand vous aurez un moment.
+
+Bien à vous,
+Amina Diallo (Brest Logistique)",demande_info,basse,client,demande_info_2
+email_0379,inès@atlantis-sa.com,Renouvellement de contrat,"Bonjour Madame, Monsieur,
+
+Nous aimerions recevoir un devis pour 50 licences supplémentaires.
+
+Bien à vous,
+Inès Garcia (Atlantis SA)",commercial,moyenne,client,commercial_0
+email_0380,amina@notre-entreprise.fr,Erreur lors de l'export,"Bonjour Madame, Monsieur,
+
+Nos utilisateurs reçoivent un message d'erreur en ouvrant le module de reporting. Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Amina Diallo
+Équipe Data",support_technique,basse,interne,support_technique_4
+email_0381,lucas@nova-retail.com,Proposition de partenariat,"Bonjour à tous,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ? C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Lucas Petit
+Service commercial, Nova Retail",commercial,haute,fournisseur,commercial_3
+email_0382,thomas@datasud.com,Erreur de montant,"Bonjour Madame, Monsieur,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Cordialement,
+Thomas Moreau
+Responsable achats, DataSud",facturation,moyenne,client,facturation_4
+email_0383,nadia@ouest-distribution.com,Renseignements,"Bonjour,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Notre clôture comptable a lieu cette semaine.
+
+Bien à vous,
+Nadia Benali (Ouest Distribution)",demande_info,haute,client,demande_info_2
+email_0384,sofia@notre-entreprise.fr,Erreur lors de l'export,"Bonjour à tous,
+
+Depuis ce matin, je n'arrive plus à me connecter à mon compte, le message 'erreur 500' s'affiche. Pas d'urgence, c'est pour information.
+
+À plus,
+Sofia Rossi
+Équipe Data",support_technique,basse,interne,support_technique_0
+email_0385,yann@ouest-distribution.com,Plainte,"Bonjour,
+
+Je suis très déçu par la réponse de votre support, personne ne m'a rappelé. Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Bien à vous,
+Yann Le Gall (Ouest Distribution)",reclamation,haute,client,reclamation_2
+email_0386,lucas@nova-retail.com,Extension de licence,"Bonjour Madame, Monsieur,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest. Pas d'urgence, c'est pour information.
+
+Cordialement,
+Lucas Petit
+Responsable achats, Nova Retail",commercial,basse,client,commercial_1
+email_0387,thomas@kermor-industrie.com,Réclamation commande,"Bonjour à tous,
+
+Le matériel livré est endommagé, je souhaite déposer une réclamation officielle. Le client final attend une réponse ce soir.
+
+Cordialement,
+Thomas Moreau
+Responsable achats, Kermor Industrie",reclamation,haute,client,reclamation_3
+email_0388,paul@nova-retail.com,Problème de connexion,"Bonjour Madame, Monsieur,
+
+L'export CSV plante systématiquement dès que je sélectionne plus d'un mois de données. C'est urgent, merci de traiter ce point aujourd'hui.
+
+Cordialement,
+Paul Nguyen
+Responsable achats, Nova Retail",support_technique,haute,client,support_technique_1
+email_0389,hugo@kermor-industrie.com,Plainte,"Bonjour à tous,
+
+Le matériel livré est endommagé, je souhaite déposer une réclamation officielle. Notre clôture comptable a lieu cette semaine.
+
+Bien à vous,
+Hugo Bernard (Kermor Industrie)",reclamation,haute,client,reclamation_3
+email_0390,amina@helio-conseil.com,Question sur vos offres,"Hello,
+
+Quels sont vos délais habituels de mise en service pour une PME ?
+
+Cordialement,
+Amina Diallo
+Responsable achats, Helio Conseil",demande_info,moyenne,client,demande_info_3
+email_0391,claire@kermor-industrie.com,Documentation,"Bonjour Madame, Monsieur,
+
+Pourriez-vous m'indiquer les fonctionnalités incluses dans l'offre standard ? Rien de pressé, quand vous aurez un moment.
+
+Claire Martin
+Compte clé, Kermor Industrie",demande_info,basse,fournisseur,demande_info_0
+email_0392,inès@brest-logistique.com,Proposition de partenariat,"Bonjour à tous,
+
+Pouvez-vous nous proposer un créneau pour une démonstration à notre équipe ?
+
+Cordialement,
+Inès Garcia
+Responsable achats, Brest Logistique",commercial,moyenne,client,commercial_3
+email_0393,nadia@notre-entreprise.fr,Entretien annuel,"Bonjour,
+
+Pouvons-nous fixer la date de mon entretien annuel ? Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Nadia Benali
+Équipe Data",rh_interne,basse,interne,rh_interne_4
+email_0394,paul@notre-entreprise.fr,Note de frais,"Bonjour Madame, Monsieur,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Vous pouvez me répondre la semaine prochaine.
+
+À plus,
+Paul Nguyen
+Équipe Data",rh_interne,basse,interne,rh_interne_3
+email_0395,claire@atlantis-sa.com,Réclamation commande,"Bonjour,
+
+C'est la troisième fois que la livraison arrive en retard, la situation n'est plus acceptable. Toute notre production est bloquée.
+
+Cordialement,
+Claire Martin
+Responsable achats, Atlantis SA",reclamation,haute,client,reclamation_0
+email_0396,sofia@armor-tech.com,Question sur vos offres,"Hello,
+
+Avez-vous une documentation technique sur l'API que je pourrais consulter ? Sans réponse sous 24h, nous serons contraints d'escalader.
+
+Sofia Rossi
+Compte clé, Armor Tech",demande_info,haute,fournisseur,demande_info_2
+email_0397,yann@notre-entreprise.fr,Note de frais,"Hello,
+
+Je voudrais m'inscrire à la formation Python avancé du mois prochain. Rien de pressé, quand vous aurez un moment.
+
+À plus,
+Yann Le Gall
+Équipe Data",rh_interne,basse,interne,rh_interne_3
+email_0398,lucas@ouest-distribution.com,Extension de licence,"Bonjour,
+
+Nous serions intéressés par un partenariat de distribution sur la région Ouest.
+
+Cordialement,
+Lucas Petit
+Service commercial, Ouest Distribution",commercial,moyenne,fournisseur,commercial_1
+email_0399,claire@nova-retail.com,Facture de septembre,"Bonjour,
+
+Notre service comptable ne trouve pas le numéro de TVA sur la dernière facture.
+
+Claire Martin
+Compte clé, Nova Retail",facturation,moyenne,fournisseur,facturation_4

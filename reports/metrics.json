@@ -1,0 +1,33 @@
+{
+  "split": "grouped",
+  "n_train": 304,
+  "n_test": 96,
+  "baseline_random_split_leaky": {
+    "intent": {
+      "accuracy": 0.98,
+      "macro_f1": 0.978
+    },
+    "priority": {
+      "accuracy": 0.98,
+      "macro_f1": 0.977
+    },
+    "sender": {
+      "accuracy": 1.0,
+      "macro_f1": 1.0
+    }
+  },
+  "baseline_tfidf_logreg": {
+    "intent": {
+      "accuracy": 0.875,
+      "macro_f1": 0.863
+    },
+    "priority": {
+      "accuracy": 0.99,
+      "macro_f1": 0.989
+    },
+    "sender": {
+      "accuracy": 0.99,
+      "macro_f1": 0.989
+    }
+  }
+}
