@@ -33,7 +33,7 @@ Choix de conception :
 
 ## État des tests
 
-✅ **9 tests unitaires passent avec succès** :
+ **9 tests unitaires passent avec succès** :
 - JSON valide et auto-correction des JSON invalides
 - Gestion des clés manquantes et retry jusqu'à l'abandon
 - Chemin happy path : email approuvé directement par le reviewer
@@ -71,8 +71,8 @@ L'écart montre que la performance en split aléatoire est surestimée.
 
 | Méthode (même sous-ensemble de test) | Accuracy intention | Macro-F1 intention | Accuracy priorité | Appels LLM / email | Taux d'escalade |
 |---|---|---|---|---|---|
-| Baseline TF-IDF | _à compléter_ | | | 0 | – |
-| Agents LLM (`gpt-4o-mini`) | _à compléter_ | | | | |
+| Baseline TF-IDF | __ | | | 0 | – |
+| Agents LLM (`gpt-4o-mini`) | _ | | | | |
 
 > Lancer `python -m email_agents.evaluate --agents --limit 60` puis reporter les valeurs de `reports/metrics.json`.
 
